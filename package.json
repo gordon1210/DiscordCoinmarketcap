@@ -1,0 +1,16 @@
+{
+  "name": "DiscordCoinmarketcap",
+  "version": "0.1.0",
+  "description": "DiscordBot for Coinmarketcap",
+  "main": "index.js",
+  "author": "gordonkabs",
+  "license": "MIT",
+  "dependencies": {
+    "discord.io": "^2.1.3",
+    "request": "^2.74.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gordon1210/DiscordCoinmarketcap.git"
+  }
+}
