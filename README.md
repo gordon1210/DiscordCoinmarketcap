@@ -1,5 +1,9 @@
 # DiscordCoinmarketcap
 
+git clone https://github.com/gordon1210/DiscordCoinmarketcap.git
+cd DiscordCoinmarketcap
+npm install
+
 create app
 https://discordapp.com/developers/applications/me
 
